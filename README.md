@@ -1,3 +1,3 @@
-# My Math 421 Class
+# Statistical Analysis with R
 
 ## [Assignment 1](assignment1.html)
